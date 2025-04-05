@@ -14,6 +14,7 @@ This project implements an end-to-end data pipeline for transportation and logis
 - `powerbi/`: Power BI dashboard file
 - `adf/`: JSON templates of ADF pipelines
 - `images/`: Diagrams and visuals
+- `documentation and logs/`: Conatins documentation and log files.
 
 #  Tools & Tech
 - Azure Databricks (PySpark)
