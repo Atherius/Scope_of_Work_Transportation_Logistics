@@ -1,0 +1,14 @@
+[2025-04-04 18:31:40] INFO - log initialised.
+[2025-04-04 18:31:41] INFO - packages loaded successfully.
+[2025-04-04 18:31:42] INFO - Acess key verified successfully.
+[2025-04-04 18:31:43] INFO - paths set successfully.
+[2025-04-04 18:31:44] INFO - Bronze dataset loaded.
+[2025-04-04 18:31:45] INFO - Type Casting successful.
+[2025-04-04 18:31:46] INFO - Type Casting successful.
+[2025-04-04 18:31:47] INFO - Type Casting successful.
+[2025-04-04 18:31:48] INFO - Type Casting successful.
+[2025-04-04 18:31:59] INFO - Null values dropped.
+[2025-04-04 18:31:50] INFO - route_name created successfully.
+[2025-04-04 18:31:51] INFO - silver dataset created successfully.
+[2025-04-04 18:31:52] INFO - database connected successfully.
+[2025-04-04 18:31:53] INFO - table created successfully.
